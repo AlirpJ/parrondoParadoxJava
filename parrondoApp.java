@@ -26,7 +26,7 @@ public class parrondoApp {
 //			
 //		}
 //		
-		// Random game-picking, run 200 times
+		// Random game-picking, run x amount of times
 		System.out.println("Enter how many runs you want to simulate: ");
 		Scanner scan = new Scanner(System.in);
 		double runs = scan.nextDouble();
